@@ -11,105 +11,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/ui/alert_icon.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue002"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/ui/check_icon.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue005"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/chat/local.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue006"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/chat/global.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue007"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/ui/arrow_icon.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue008"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/chat/private.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue016"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/chat/staff.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue017"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/chat/donate.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue025"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/chat/clan.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue026"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/key/lmb_icon.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue027"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/key/rmb_icon.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue028"
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/ui/top.png",
       "ascent": 7,
       "height": 9,
@@ -133,33 +34,6 @@
       "height": 10,
       "chars": [
         "\ue031"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/ui/voice_on.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue033"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/ui/voice_off.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue034"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/key/shift_icon.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue038"
       ]
     },
     {
