@@ -1,0 +1,14 @@
+# lunaminerp.zip НЕ игнорируется намеренно: прокси качает именно его по
+# raw.githubusercontent.com/<repo>/<sha>/lunaminerp.zip (GitHubPackSource),
+# а не zipball репозитория. Уберёшь из индекса — /rpreload отдаст клиентам 404.
+
+.idea/
+__pycache__/
+*.pyc
+
+# рабочий мусор графических редакторов
+*.xcf
+*.psd
+*.aseprite
+Thumbs.db
+desktop.ini

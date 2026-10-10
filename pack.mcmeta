@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "description": "LunaMine Resource Pack",
+    "pack_format": 46,
+    "supported_formats": {
+      "min_inclusive": 46,
+      "max_inclusive": 99
+    },
+    "min_format": [
+      46,
+      0
+    ],
+    "max_format": [
+      99,
+      0
+    ]
+  }
+}

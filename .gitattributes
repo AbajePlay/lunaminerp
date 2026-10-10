@@ -1,0 +1,12 @@
+# Пак — бинарь и текст вперемешку. Без этого git пытается диффать zip и png,
+# а на CRLF-машине ещё и переписывает переводы строк в json: клиент такой json
+# читает, но SHA1 пака меняется на ровном месте и /rpreload гоняет лишние
+# мегабайты всем онлайн.
+*.zip binary
+*.png binary
+*.ogg binary
+
+*.json text eol=lf
+*.mcmeta text eol=lf
+*.fsh text eol=lf
+*.vsh text eol=lf
