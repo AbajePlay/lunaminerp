@@ -122,15 +122,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/prefix/constellation.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue173"
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/prefix/sun.png",
       "ascent": 7,
       "height": 8,
