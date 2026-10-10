@@ -317,6 +317,15 @@
       "chars": [
         "\ue0c5"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/topper_horizon.png",
+      "ascent": 57,
+      "height": 57,
+      "chars": [
+        "\ue0d0"
+      ]
     }
   ]
 }
