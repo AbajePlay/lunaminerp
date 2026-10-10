@@ -221,6 +221,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/menu/title_0.png",
+      "ascent": 21,
+      "height": 21,
+      "chars": [
+        "\ue0b0"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:font/menu/panel_3.png",
       "ascent": 13,
       "height": 78,
@@ -257,11 +266,56 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/menu/title_0.png",
-      "ascent": 21,
-      "height": 21,
+      "file": "minecraft:font/menu/slot.png",
+      "ascent": -4,
+      "height": 18,
       "chars": [
-        "\ue0b0"
+        "\ue0c0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot.png",
+      "ascent": -22,
+      "height": 18,
+      "chars": [
+        "\ue0c1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot.png",
+      "ascent": -40,
+      "height": 18,
+      "chars": [
+        "\ue0c2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot.png",
+      "ascent": -58,
+      "height": 18,
+      "chars": [
+        "\ue0c3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot.png",
+      "ascent": -76,
+      "height": 18,
+      "chars": [
+        "\ue0c4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot.png",
+      "ascent": -94,
+      "height": 18,
+      "chars": [
+        "\ue0c5"
       ]
     }
   ]
