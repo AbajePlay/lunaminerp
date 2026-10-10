@@ -221,15 +221,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/menu/title_0.png",
-      "ascent": 21,
-      "height": 21,
-      "chars": [
-        "\ue0b0"
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/menu/panel_3.png",
       "ascent": 13,
       "height": 78,
@@ -325,6 +316,87 @@
       "height": 57,
       "chars": [
         "\ue0d0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/plate_left.png",
+      "ascent": 21,
+      "height": 21,
+      "chars": [
+        "\ue0b1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/plate_right.png",
+      "ascent": 21,
+      "height": 21,
+      "chars": [
+        "\ue0b2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/plate_mid_1.png",
+      "ascent": 21,
+      "height": 21,
+      "chars": [
+        "\ue0b3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/plate_mid_2.png",
+      "ascent": 21,
+      "height": 21,
+      "chars": [
+        "\ue0b4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/plate_mid_4.png",
+      "ascent": 21,
+      "height": 21,
+      "chars": [
+        "\ue0b5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/plate_mid_8.png",
+      "ascent": 21,
+      "height": 21,
+      "chars": [
+        "\ue0b6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/plate_mid_16.png",
+      "ascent": 21,
+      "height": 21,
+      "chars": [
+        "\ue0b7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/plate_mid_32.png",
+      "ascent": 21,
+      "height": 21,
+      "chars": [
+        "\ue0b8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/plate_mid_64.png",
+      "ascent": 21,
+      "height": 21,
+      "chars": [
+        "\ue0b9"
       ]
     }
   ]
