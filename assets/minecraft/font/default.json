@@ -254,6 +254,15 @@
       "chars": [
         "\ue0a6"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/title_0.png",
+      "ascent": 21,
+      "height": 21,
+      "chars": [
+        "\ue0b0"
+      ]
     }
   ]
 }
