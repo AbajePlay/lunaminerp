@@ -218,6 +218,42 @@
       "chars": [
         "\ue003"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/panel_3.png",
+      "ascent": 13,
+      "height": 78,
+      "chars": [
+        "\ue0a3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/panel_4.png",
+      "ascent": 13,
+      "height": 96,
+      "chars": [
+        "\ue0a4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/panel_5.png",
+      "ascent": 13,
+      "height": 114,
+      "chars": [
+        "\ue0a5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/panel_6.png",
+      "ascent": 13,
+      "height": 132,
+      "chars": [
+        "\ue0a6"
+      ]
     }
   ]
 }
