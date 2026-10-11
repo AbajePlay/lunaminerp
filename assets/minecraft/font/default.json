@@ -407,6 +407,15 @@
       "chars": [
         "\ue190"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/board_logo.png",
+      "ascent": 7,
+      "height": 56,
+      "chars": [
+        "\ue191"
+      ]
     }
   ]
 }
