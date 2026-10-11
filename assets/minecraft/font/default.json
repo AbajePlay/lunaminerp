@@ -383,56 +383,866 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/menu/slot.png",
+      "file": "minecraft:font/menu/slot_0.png",
       "ascent": -2,
       "height": 22,
       "chars": [
-        "\ue0c0"
+        "\ue600"
       ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/menu/slot.png",
+      "file": "minecraft:font/menu/slot_0.png",
       "ascent": -20,
       "height": 22,
       "chars": [
-        "\ue0c1"
+        "\ue601"
       ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/menu/slot.png",
+      "file": "minecraft:font/menu/slot_0.png",
       "ascent": -38,
       "height": 22,
       "chars": [
-        "\ue0c2"
+        "\ue602"
       ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/menu/slot.png",
+      "file": "minecraft:font/menu/slot_0.png",
       "ascent": -56,
       "height": 22,
       "chars": [
-        "\ue0c3"
+        "\ue603"
       ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/menu/slot.png",
+      "file": "minecraft:font/menu/slot_0.png",
       "ascent": -74,
       "height": 22,
       "chars": [
-        "\ue0c4"
+        "\ue604"
       ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/menu/slot.png",
+      "file": "minecraft:font/menu/slot_0.png",
       "ascent": -92,
       "height": 22,
       "chars": [
-        "\ue0c5"
+        "\ue605"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_1.png",
+      "ascent": -2,
+      "height": 22,
+      "chars": [
+        "\ue606"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_1.png",
+      "ascent": -20,
+      "height": 22,
+      "chars": [
+        "\ue607"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_1.png",
+      "ascent": -38,
+      "height": 22,
+      "chars": [
+        "\ue608"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_1.png",
+      "ascent": -56,
+      "height": 22,
+      "chars": [
+        "\ue609"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_1.png",
+      "ascent": -74,
+      "height": 22,
+      "chars": [
+        "\ue60a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_1.png",
+      "ascent": -92,
+      "height": 22,
+      "chars": [
+        "\ue60b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_2.png",
+      "ascent": -2,
+      "height": 22,
+      "chars": [
+        "\ue60c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_2.png",
+      "ascent": -20,
+      "height": 22,
+      "chars": [
+        "\ue60d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_2.png",
+      "ascent": -38,
+      "height": 22,
+      "chars": [
+        "\ue60e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_2.png",
+      "ascent": -56,
+      "height": 22,
+      "chars": [
+        "\ue60f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_2.png",
+      "ascent": -74,
+      "height": 22,
+      "chars": [
+        "\ue610"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_2.png",
+      "ascent": -92,
+      "height": 22,
+      "chars": [
+        "\ue611"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_3.png",
+      "ascent": -2,
+      "height": 22,
+      "chars": [
+        "\ue612"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_3.png",
+      "ascent": -20,
+      "height": 22,
+      "chars": [
+        "\ue613"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_3.png",
+      "ascent": -38,
+      "height": 22,
+      "chars": [
+        "\ue614"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_3.png",
+      "ascent": -56,
+      "height": 22,
+      "chars": [
+        "\ue615"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_3.png",
+      "ascent": -74,
+      "height": 22,
+      "chars": [
+        "\ue616"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_3.png",
+      "ascent": -92,
+      "height": 22,
+      "chars": [
+        "\ue617"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_4.png",
+      "ascent": -2,
+      "height": 22,
+      "chars": [
+        "\ue618"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_4.png",
+      "ascent": -20,
+      "height": 22,
+      "chars": [
+        "\ue619"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_4.png",
+      "ascent": -38,
+      "height": 22,
+      "chars": [
+        "\ue61a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_4.png",
+      "ascent": -56,
+      "height": 22,
+      "chars": [
+        "\ue61b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_4.png",
+      "ascent": -74,
+      "height": 22,
+      "chars": [
+        "\ue61c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_4.png",
+      "ascent": -92,
+      "height": 22,
+      "chars": [
+        "\ue61d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_5.png",
+      "ascent": -2,
+      "height": 22,
+      "chars": [
+        "\ue61e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_5.png",
+      "ascent": -20,
+      "height": 22,
+      "chars": [
+        "\ue61f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_5.png",
+      "ascent": -38,
+      "height": 22,
+      "chars": [
+        "\ue620"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_5.png",
+      "ascent": -56,
+      "height": 22,
+      "chars": [
+        "\ue621"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_5.png",
+      "ascent": -74,
+      "height": 22,
+      "chars": [
+        "\ue622"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_5.png",
+      "ascent": -92,
+      "height": 22,
+      "chars": [
+        "\ue623"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_6.png",
+      "ascent": -2,
+      "height": 22,
+      "chars": [
+        "\ue624"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_6.png",
+      "ascent": -20,
+      "height": 22,
+      "chars": [
+        "\ue625"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_6.png",
+      "ascent": -38,
+      "height": 22,
+      "chars": [
+        "\ue626"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_6.png",
+      "ascent": -56,
+      "height": 22,
+      "chars": [
+        "\ue627"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_6.png",
+      "ascent": -74,
+      "height": 22,
+      "chars": [
+        "\ue628"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_6.png",
+      "ascent": -92,
+      "height": 22,
+      "chars": [
+        "\ue629"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_7.png",
+      "ascent": -2,
+      "height": 22,
+      "chars": [
+        "\ue62a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_7.png",
+      "ascent": -20,
+      "height": 22,
+      "chars": [
+        "\ue62b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_7.png",
+      "ascent": -38,
+      "height": 22,
+      "chars": [
+        "\ue62c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_7.png",
+      "ascent": -56,
+      "height": 22,
+      "chars": [
+        "\ue62d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_7.png",
+      "ascent": -74,
+      "height": 22,
+      "chars": [
+        "\ue62e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_7.png",
+      "ascent": -92,
+      "height": 22,
+      "chars": [
+        "\ue62f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_8.png",
+      "ascent": -2,
+      "height": 22,
+      "chars": [
+        "\ue630"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_8.png",
+      "ascent": -20,
+      "height": 22,
+      "chars": [
+        "\ue631"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_8.png",
+      "ascent": -38,
+      "height": 22,
+      "chars": [
+        "\ue632"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_8.png",
+      "ascent": -56,
+      "height": 22,
+      "chars": [
+        "\ue633"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_8.png",
+      "ascent": -74,
+      "height": 22,
+      "chars": [
+        "\ue634"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_8.png",
+      "ascent": -92,
+      "height": 22,
+      "chars": [
+        "\ue635"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_9.png",
+      "ascent": -2,
+      "height": 22,
+      "chars": [
+        "\ue636"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_9.png",
+      "ascent": -20,
+      "height": 22,
+      "chars": [
+        "\ue637"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_9.png",
+      "ascent": -38,
+      "height": 22,
+      "chars": [
+        "\ue638"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_9.png",
+      "ascent": -56,
+      "height": 22,
+      "chars": [
+        "\ue639"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_9.png",
+      "ascent": -74,
+      "height": 22,
+      "chars": [
+        "\ue63a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_9.png",
+      "ascent": -92,
+      "height": 22,
+      "chars": [
+        "\ue63b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_10.png",
+      "ascent": -2,
+      "height": 22,
+      "chars": [
+        "\ue63c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_10.png",
+      "ascent": -20,
+      "height": 22,
+      "chars": [
+        "\ue63d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_10.png",
+      "ascent": -38,
+      "height": 22,
+      "chars": [
+        "\ue63e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_10.png",
+      "ascent": -56,
+      "height": 22,
+      "chars": [
+        "\ue63f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_10.png",
+      "ascent": -74,
+      "height": 22,
+      "chars": [
+        "\ue640"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_10.png",
+      "ascent": -92,
+      "height": 22,
+      "chars": [
+        "\ue641"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_11.png",
+      "ascent": -2,
+      "height": 22,
+      "chars": [
+        "\ue642"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_11.png",
+      "ascent": -20,
+      "height": 22,
+      "chars": [
+        "\ue643"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_11.png",
+      "ascent": -38,
+      "height": 22,
+      "chars": [
+        "\ue644"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_11.png",
+      "ascent": -56,
+      "height": 22,
+      "chars": [
+        "\ue645"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_11.png",
+      "ascent": -74,
+      "height": 22,
+      "chars": [
+        "\ue646"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_11.png",
+      "ascent": -92,
+      "height": 22,
+      "chars": [
+        "\ue647"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_12.png",
+      "ascent": -2,
+      "height": 22,
+      "chars": [
+        "\ue648"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_12.png",
+      "ascent": -20,
+      "height": 22,
+      "chars": [
+        "\ue649"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_12.png",
+      "ascent": -38,
+      "height": 22,
+      "chars": [
+        "\ue64a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_12.png",
+      "ascent": -56,
+      "height": 22,
+      "chars": [
+        "\ue64b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_12.png",
+      "ascent": -74,
+      "height": 22,
+      "chars": [
+        "\ue64c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_12.png",
+      "ascent": -92,
+      "height": 22,
+      "chars": [
+        "\ue64d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_13.png",
+      "ascent": -2,
+      "height": 22,
+      "chars": [
+        "\ue64e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_13.png",
+      "ascent": -20,
+      "height": 22,
+      "chars": [
+        "\ue64f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_13.png",
+      "ascent": -38,
+      "height": 22,
+      "chars": [
+        "\ue650"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_13.png",
+      "ascent": -56,
+      "height": 22,
+      "chars": [
+        "\ue651"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_13.png",
+      "ascent": -74,
+      "height": 22,
+      "chars": [
+        "\ue652"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_13.png",
+      "ascent": -92,
+      "height": 22,
+      "chars": [
+        "\ue653"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_14.png",
+      "ascent": -2,
+      "height": 22,
+      "chars": [
+        "\ue654"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_14.png",
+      "ascent": -20,
+      "height": 22,
+      "chars": [
+        "\ue655"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_14.png",
+      "ascent": -38,
+      "height": 22,
+      "chars": [
+        "\ue656"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_14.png",
+      "ascent": -56,
+      "height": 22,
+      "chars": [
+        "\ue657"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_14.png",
+      "ascent": -74,
+      "height": 22,
+      "chars": [
+        "\ue658"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_14.png",
+      "ascent": -92,
+      "height": 22,
+      "chars": [
+        "\ue659"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_15.png",
+      "ascent": -2,
+      "height": 22,
+      "chars": [
+        "\ue65a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_15.png",
+      "ascent": -20,
+      "height": 22,
+      "chars": [
+        "\ue65b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_15.png",
+      "ascent": -38,
+      "height": 22,
+      "chars": [
+        "\ue65c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_15.png",
+      "ascent": -56,
+      "height": 22,
+      "chars": [
+        "\ue65d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_15.png",
+      "ascent": -74,
+      "height": 22,
+      "chars": [
+        "\ue65e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu/slot_15.png",
+      "ascent": -92,
+      "height": 22,
+      "chars": [
+        "\ue65f"
       ]
     }
   ]
