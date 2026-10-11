@@ -1244,6 +1244,33 @@
       "chars": [
         "\ue65f"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/currency/money.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue02c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/currency/luns.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue02d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/currency/orbits.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue024"
+      ]
     }
   ]
 }
