@@ -59,168 +59,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/prefix/admin.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue004"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/mladmin.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue171"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/smoder.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue009"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/moder.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue00a"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/shelper.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue00b"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/helper.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue00c"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/media.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue015"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/sun.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue172"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/mercury.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue170"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/venus.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue014"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/earth.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue013"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/mars.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue012"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/jupiter.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue011"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/saturn.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue010"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/uranus.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue00f"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/neptune.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue00e"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/pluto.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue00d"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/prefix/default.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        "\ue003"
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/menu/panel_3.png",
       "ascent": 13,
       "height": 78,
@@ -415,6 +253,186 @@
       "height": 56,
       "chars": [
         "\ue191"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/admin.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/mladmin.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue171"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/smoder.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/moder.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue00a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/shelper.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue00b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/helper.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue00c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/media.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue015"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/sun.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue172"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/mercury.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue170"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/venus.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue014"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/earth.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue013"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/mars.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue012"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/jupiter.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/saturn.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/uranus.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue00f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/neptune.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue00e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/pluto.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue00d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/default.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/lmb.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue173"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/rmb.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue174"
       ]
     }
   ]
