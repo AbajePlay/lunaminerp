@@ -1496,6 +1496,42 @@
       "chars": [
         "\ue677"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/stats/playtime.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue02b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/stats/player_kills.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue02a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/stats/death.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue02e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/stats/mob_kills.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue029"
+      ]
     }
   ]
 }
