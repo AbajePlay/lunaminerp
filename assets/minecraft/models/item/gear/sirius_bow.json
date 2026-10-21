@@ -793,7 +793,7 @@
       "rotation": [
         -80,
         -280,
-        85
+        -5
       ],
       "translation": [
         -1,
@@ -827,7 +827,7 @@
       "rotation": [
         0,
         90,
-        20
+        -70
       ],
       "translation": [
         1.13,
