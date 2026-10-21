@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/teleport/casinoteleport"
+    "layer0": "minecraft:item/teleport/tp_mine"
   }
 }
