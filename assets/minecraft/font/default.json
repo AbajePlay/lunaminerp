@@ -1535,6 +1535,60 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/prefix/npc_shop.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue179"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/npc_purchaser.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue17a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/npc_teleports.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue17b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/npc_donate.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue17f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/npc_pass.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue17d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/npc_exchange.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue17e"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:font/prefix/pass_free.png",
       "ascent": 7,
       "height": 8,
