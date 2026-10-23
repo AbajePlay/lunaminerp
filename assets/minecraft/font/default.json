@@ -1589,6 +1589,24 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/prefix/npc_arena.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue180"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/npc_arena_exit.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue181"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:font/prefix/pass_free.png",
       "ascent": 7,
       "height": 8,
