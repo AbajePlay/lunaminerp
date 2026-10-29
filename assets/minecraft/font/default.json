@@ -1631,6 +1631,60 @@
       "chars": [
         "\ue178"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/chat/local.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/chat/global.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/chat/private.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue016"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/chat/staff.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue017"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/chat/donate.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue025"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/chat/clan.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue026"
+      ]
     }
   ]
 }
