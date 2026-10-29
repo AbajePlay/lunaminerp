@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/menu/quest_reward"
+    "layer0": "minecraft:item/quest/pass_gift_pro"
   }
 }
