@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/cases/casebox_random"
+    "model": "minecraft:item/cases/casebox_allin"
   }
 }
