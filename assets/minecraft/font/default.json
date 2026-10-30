@@ -1685,6 +1685,15 @@
       "chars": [
         "\ue026"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/title/moon.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue182"
+      ]
     }
   ]
 }
