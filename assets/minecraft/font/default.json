@@ -1694,6 +1694,15 @@
       "chars": [
         "\ue182"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/title/pumpkin.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue183"
+      ]
     }
   ]
 }
