@@ -17,6 +17,20 @@
           "type": "minecraft:model",
           "model": "minecraft:item/arrow"
         }
+      },
+      {
+        "threshold": 38,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/gui/cancel"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/arrow"
+        }
       }
     ],
     "fallback": {
