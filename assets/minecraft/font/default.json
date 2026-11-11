@@ -1346,6 +1346,78 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/chat/local.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/chat/global.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/chat/private.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue016"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/chat/staff.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue017"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/chat/donate.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue025"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/chat/clan.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue026"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/title/moon.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue182"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/title/pumpkin.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue183"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:font/prefix/admin.png",
       "ascent": 7,
       "height": 8,
@@ -1607,6 +1679,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/prefix/npc_mine.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue184"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:font/prefix/pass_free.png",
       "ascent": 7,
       "height": 8,
@@ -1630,78 +1711,6 @@
       "height": 8,
       "chars": [
         "\ue178"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/chat/local.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\ue006"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/chat/global.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\ue007"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/chat/private.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\ue016"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/chat/staff.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\ue017"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/chat/donate.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\ue025"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/chat/clan.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\ue026"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/moon.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\ue182"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/pumpkin.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\ue183"
       ]
     }
   ]
