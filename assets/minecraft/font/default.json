@@ -3116,6 +3116,24 @@
       "chars": [
         "\ue1c3"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/voice_on.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue033"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/voice_off.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue034"
+      ]
     }
   ]
 }
